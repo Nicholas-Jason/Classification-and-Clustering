@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Clustering
+comment1.params=
+comment1.target=Clustering()
+comment2.params=a\ b
+comment2.target=int\ calcDistance(Clustering.DataPoint,\ Clustering.DataPoint)
+comment2.text=\n\ Uses\ the\ Manhattan\ Distance\ formula\n
+comment3.params=dp\ p
+comment3.target=void\ setCenter(java.util.ArrayList,\ Clustering.DataPoint)
+comment3.text=\n\ Intializes\ the\ centurioid\ the\ cluster\n
+comment4.params=
+comment4.target=void\ populateClusters()
+comment5.params=
+comment5.target=void\ showClusters()
+comment6.params=c
+comment6.target=void\ calcCenter(java.util.ArrayList)
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8

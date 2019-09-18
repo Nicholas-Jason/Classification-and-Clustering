@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=kNN
+comment1.params=
+comment1.target=kNN()
+comment2.params=col\ b
+comment2.target=void\ calcEuDistances(java.util.ArrayList,\ kNN.Car)
+comment3.params=col\ b
+comment3.target=void\ calcMaDistances(java.util.ArrayList,\ kNN.Car)
+comment4.params=col\ b
+comment4.target=void\ calcMiDistances(java.util.ArrayList,\ kNN.Car)
+comment5.params=
+comment5.target=void\ setK()
+comment6.params=b
+comment6.target=void\ calcColor(kNN.Car)
+comment7.params=b
+comment7.target=void\ calcType(kNN.Car)
+comment8.params=b
+comment8.target=void\ calcModel(kNN.Car)
+comment9.params=args
+comment9.target=void\ main(java.lang.String[])
+numComments=10

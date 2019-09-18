@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Hierarchal_Clustering
+comment1.params=
+comment1.target=Hierarchal_Clustering()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Hierarchal_Clustering\n
+comment2.params=a\ b
+comment2.target=int\ calcDistance(Hierarchal_Clustering.DataPoint,\ Hierarchal_Clustering.DataPoint)
+comment3.params=
+comment3.target=void\ findSmallest()
+comment4.params=
+comment4.target=void\ fillCluster()
+comment5.params=
+comment5.target=void\ findCenter()
+numComments=6
